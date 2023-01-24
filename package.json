@@ -10,5 +10,9 @@
   },
   "devDependencies": {
     "vite": "^4.0.4"
+  },
+  "dependencies": {
+    "@nivo/bar": "^0.80.0",
+    "@nivo/core": "^0.80.0"
   }
 }
